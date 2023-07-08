@@ -1,5 +1,16 @@
+// https://leetcode.com/problems/maximum-subarray/
+
 use std::io;
 use std::cmp;
+
+fn max_sub_array(nums: Vec<i32>) -> i32 {
+
+    nums[1..].iter().fold(
+        (nums[0], nums[0]),
+        |(r,m), &x| {let rn = cmp::max(x,r+x); (rn, cmp::max(m,rn))}
+        ).1
+
+}
 
 fn main() {
 
@@ -11,14 +22,6 @@ fn main() {
         .map(|x| x.parse().unwrap())
         .collect();
 
-    let mut r: i32 = nums[0];
-    let mut m: i32 = nums[0];
-
-    for &i in &nums[1..] {
-        r = cmp::max(i,r+i);
-        m = cmp::max(m,r);
-    }
-
-    println!("{m}");
+    println!("{}", max_sub_array(nums));
 
 }

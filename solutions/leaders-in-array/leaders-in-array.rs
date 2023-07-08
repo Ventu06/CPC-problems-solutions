@@ -2,22 +2,10 @@
 
 use std::io;
 
-fn main() {
+fn leaders(a: Vec<i32>, n: usize) -> Vec<i32> {
 
-    let mut n = String::new();
-    io::stdin().read_line(&mut n).unwrap();
-    let n: usize = n.trim().parse().unwrap();
-
-    let mut a = String::new();
-    io::stdin().read_line(&mut a).unwrap();
-    let a: Vec<u32> = a
-        .trim()
-        .split(' ')
-        .map(|x| x.parse().unwrap())
-        .collect();
-
-    let mut m: u32 = 0;
-    let mut r: Vec<u32> = Vec::new();
+    let mut m: i32 = 0;
+    let mut r: Vec<i32> = Vec::new();
 
     for &i in a.iter().rev() {
         if i>=m {
@@ -26,11 +14,30 @@ fn main() {
         }
     }
 
+    r.reverse();
+    r
+
+}
+
+fn main() {
+
+    let mut n = String::new();
+    io::stdin().read_line(&mut n).unwrap();
+    let n: usize = n.trim().parse().unwrap();
+
+    let mut a = String::new();
+    io::stdin().read_line(&mut a).unwrap();
+    let a: Vec<i32> = a
+        .trim()
+        .split(' ')
+        .map(|x| x.parse().unwrap())
+        .collect();
+
+    let r = leaders(a, n);
     println!("{}", r
         .iter()
-        .rev()
         .map(|x| x.to_string())
         .collect::<Vec<String>>()
-        .join(" "))
+        .join(" "));
 
 }
