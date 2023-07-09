@@ -1,3 +1,43 @@
 # CPC-problems-solutions
 
 Solutions to Competitive Programming and Contests course problems implemented in Rust.
+
+- [X] Leaders in array (optional)
+- [X] Kadane's algorithm
+- [X] Missing number in array (optional)
+- [X] Trapping rain water (optional)
+- [X] Sliding window maximum
+- [X] Next greater element
+- [X] Towers (optional)
+- [X] The Monkey and the Oiled Bamboo
+- [ ] Inversion count
+- [ ] Two Types of Spells (optional)
+- [ ] Hands-On 1
+  - [ ] Sliding Window Maximum
+  - [ ] Report
+- [ ] Frogs and Mosquitoes
+- [ ] Maximum path sum (optional)
+- [ ] Longest k-Good Segment
+- [ ] Ilya and Queries (optional)
+- [ ] Number of ways
+- [ ] Little girl and maximum sum (optional)
+- [ ] Nested segments (optional)
+- [ ] Circular RMQ (optional)
+- [ ] Triplets (optional)
+- [ ] Smaller Values
+- [ ] Hands-On 2
+  - [ ] Problem 01
+  - [ ] Problem 02
+  - [ ] Report
+- [ ] Powerful array
+- [ ] Tree and queries (optional)
+- [ ] Longest common subsequence
+- [ ] Minimum number of jumps
+- [ ] Subset sum
+- [ ] 0-1 knapsack (optional)
+- [ ] Longest increasing subsequence
+- [ ] Longest bitonic subsequence
+- [ ] Hands-On 3
+  - [ ] Problem 01
+  - [ ] Problem 02
+  - [ ] Report
