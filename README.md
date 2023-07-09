@@ -15,7 +15,7 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [ ] Hands-On 1
   - [ ] Sliding Window Maximum
   - [ ] Report
-- [ ] Frogs and Mosquitoes
+- [X] Frogs and Mosquitoes
 - [ ] Maximum path sum (optional)
 - [ ] Longest k-Good Segment
 - [ ] Ilya and Queries (optional)
