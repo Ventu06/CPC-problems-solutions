@@ -18,6 +18,7 @@ for i in $(seq 0 $(($n-1))); do
 		echo ""
 		echo "Actual output:"
 		echo "$out"
-		exit
+		echo ""
+		echo ""
 	fi
 done
