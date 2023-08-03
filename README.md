@@ -22,7 +22,7 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Number of ways
 - [X] Little girl and maximum sum (optional)
 - [X] Nested segments (optional)
-- [ ] Circular RMQ (optional)
+- [X] Circular RMQ (optional)
 - [ ] Triplets (optional)
 - [ ] Smaller Values
 - [ ] Hands-On 2
