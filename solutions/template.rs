@@ -16,7 +16,7 @@ fn main() {
 
     let mut a = String::new();
     io::stdin().read_line(&mut a).unwrap();
-    let mut a: Vec<i32> = a
+    let a: Vec<i32> = a
         .trim()
         .split(' ')
         .map(|x| x.parse().unwrap())

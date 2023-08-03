@@ -18,10 +18,10 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Frogs and Mosquitoes
 - [X] Maximum path sum (optional)
 - [X] Longest k-Good Segment
-- [ ] Ilya and Queries (optional)
-- [ ] Number of ways
-- [ ] Little girl and maximum sum (optional)
-- [ ] Nested segments (optional)
+- [X] Ilya and Queries (optional)
+- [X] Number of ways
+- [X] Little girl and maximum sum (optional)
+- [X] Nested segments (optional)
 - [ ] Circular RMQ (optional)
 - [ ] Triplets (optional)
 - [ ] Smaller Values
