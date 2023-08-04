@@ -29,12 +29,12 @@ Solutions to Competitive Programming and Contests course problems implemented in
   - [ ] Problem 01
   - [ ] Problem 02
   - [ ] Report
-- [ ] Powerful array
-- [ ] Tree and queries (optional)
-- [ ] Longest common subsequence
-- [ ] Minimum number of jumps
-- [ ] Subset sum
-- [ ] 0-1 knapsack (optional)
+- [X] Powerful array
+- [X] Tree and queries (optional)
+- [X] Longest common subsequence
+- [X] Minimum number of jumps
+- [X] Subset sum
+- [X] 0-1 knapsack (optional)
 - [ ] Longest increasing subsequence
 - [ ] Longest bitonic subsequence
 - [ ] Hands-On 3
