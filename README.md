@@ -10,8 +10,8 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Next greater element
 - [X] Towers (optional)
 - [X] The Monkey and the Oiled Bamboo
-- [ ] Inversion count
-- [ ] Two Types of Spells (optional)
+- [X] Inversion count
+- [X] Two Types of Spells (optional)
 - [ ] Hands-On 1
   - [ ] Sliding Window Maximum
   - [ ] Report
