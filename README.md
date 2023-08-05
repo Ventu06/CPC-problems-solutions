@@ -23,8 +23,8 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Little girl and maximum sum (optional)
 - [X] Nested segments (optional)
 - [X] Circular RMQ (optional)
-- [ ] Triplets (optional)
-- [ ] Smaller Values
+- [X] Triplets (optional)
+- [X] Smaller Values
 - [ ] Hands-On 2
   - [ ] Problem 01
   - [ ] Problem 02
@@ -35,8 +35,8 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Minimum number of jumps
 - [X] Subset sum
 - [X] 0-1 knapsack (optional)
-- [ ] Longest increasing subsequence
-- [ ] Longest bitonic subsequence
+- [X] Longest increasing subsequence
+- [X] Longest bitonic subsequence
 - [ ] Hands-On 3
   - [ ] Problem 01
   - [ ] Problem 02
