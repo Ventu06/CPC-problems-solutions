@@ -7,7 +7,7 @@ fn solve(s: &str, lr: Vec<(usize, usize)>) -> Vec<usize> {
 
     let v: Vec<usize> = iter::once(0)
         .chain(iter::zip(s.chars(), s.chars().skip(1))
-            .scan(0, |j, (x, y)| { *j += (x==y) as usize; Some(*j) }))
+        .scan(0, |j, (x, y)| { *j += (x==y) as usize; Some(*j) }))
         .collect();
 
     lr.iter().map(|&(l, r)| v[r] - v[l]).collect()

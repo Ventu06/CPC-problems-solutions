@@ -13,7 +13,7 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Inversion count
 - [X] Two Types of Spells (optional)
 - [ ] Hands-On 1
-  - [ ] Sliding Window Maximum
+  - [X] Sliding Window Maximum
   - [ ] Report
 - [X] Frogs and Mosquitoes
 - [X] Maximum path sum (optional)
@@ -26,8 +26,8 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Triplets (optional)
 - [X] Smaller Values
 - [ ] Hands-On 2
-  - [ ] Problem 01
-  - [ ] Problem 02
+  - [X] Problem 01
+  - [~] Problem 02
   - [ ] Report
 - [X] Powerful array
 - [X] Tree and queries (optional)
@@ -38,6 +38,6 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Longest increasing subsequence
 - [X] Longest bitonic subsequence
 - [ ] Hands-On 3
-  - [ ] Problem 01
-  - [ ] Problem 02
+  - [X] Problem 01
+  - [X] Problem 02
   - [ ] Report
