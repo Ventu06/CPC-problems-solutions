@@ -15,5 +15,5 @@ pub fn holiday_planning(attr: &[Vec<u32>]) -> u32 {
         dp = dpn;
     }
 
-    *dp.iter().max().unwrap()
+    *dp.iter().last().unwrap()
 }

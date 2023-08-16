@@ -12,9 +12,9 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] The Monkey and the Oiled Bamboo
 - [X] Inversion count
 - [X] Two Types of Spells (optional)
-- [ ] Hands-On 1
+- [X] Hands-On 1
   - [X] Sliding Window Maximum
-  - [ ] Report
+  - [X] Report
 - [X] Frogs and Mosquitoes
 - [X] Maximum path sum (optional)
 - [X] Longest k-Good Segment
@@ -25,10 +25,10 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] Circular RMQ (optional)
 - [X] Triplets (optional)
 - [X] Smaller Values
-- [ ] Hands-On 2
+- [X] Hands-On 2
   - [X] Problem 01
-  - [~] Problem 02
-  - [ ] Report
+  - [X] Problem 02
+  - [X] Report
 - [X] Powerful array
 - [X] Tree and queries (optional)
 - [X] Longest common subsequence
@@ -37,7 +37,7 @@ Solutions to Competitive Programming and Contests course problems implemented in
 - [X] 0-1 knapsack (optional)
 - [X] Longest increasing subsequence
 - [X] Longest bitonic subsequence
-- [ ] Hands-On 3
+- [X] Hands-On 3
   - [X] Problem 01
   - [X] Problem 02
-  - [ ] Report
+  - [X] Report
